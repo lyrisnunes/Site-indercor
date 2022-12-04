@@ -24,5 +24,5 @@ O projeto foi desenvolvido com as seguintes tecnologias
 ## 👩🏽‍💻 Acesse o projeto
 
  <h3>
-        <a href="https://lyrisnunes.github.io/site-pizzaria/"> - Veja o projeto clique aqui </a>
+        <a href="https://lyrisnunes.github.io/site-indercor/"> - Veja o projeto clique aqui </a>
 </h3>
